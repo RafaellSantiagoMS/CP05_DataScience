@@ -54,5 +54,5 @@ Os preços são de anúncios de 2019, e não de vendas efetivas. O erro típico 
 
 ## Links
 
-- GitHub: https://github.com/RafaellSantiagoMS/DataScience_CP05
+- GitHub: https://github.com/RafaellSantiagoMS/CP05_DataScience
 - Aplicação Streamlit: https://cp05datascience-ias6oscng3lajjutaxxwfm.streamlit.app/
